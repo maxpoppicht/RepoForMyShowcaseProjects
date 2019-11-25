@@ -1,0 +1,2 @@
+Created with XAML/C#
+Item manager that you can use to create basic items with save and load.

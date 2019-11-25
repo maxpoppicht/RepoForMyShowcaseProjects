@@ -1,0 +1,110 @@
+﻿<Window x:Class="Trainingyaes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trainingyaes"
+        mc:Ignorable="d"
+        Title="MainWindow" Name="myWindow" MinHeight="450" MinWidth="900">
+    <Grid>
+        <!--Top Menu-->
+        <DockPanel LastChildFill="False">
+            <Menu DockPanel.Dock="Top">
+                <!--1st Menu entry-->
+                <MenuItem Header="File">
+                    <MenuItem Header="Open..." Click="Open_File"/>
+                    <MenuItem Header="Save..." Click="Save_File" InputGestureText="Ctrl + S">
+                        <!--Shortcut for save-->
+                        <MenuItem.InputBindings>
+                            <KeyBinding Key="S" Modifiers="Ctrl"/>
+                        </MenuItem.InputBindings>
+                    </MenuItem>
+                    <Separator/>
+                    <MenuItem Header="Exit" Click="Exit_Programm" InputGestureText="Alt + F4">
+                        <!--Shortcut for exit-->
+                        <MenuItem.InputBindings>
+                            <KeyBinding Key="F4" Modifiers="Alt"/>
+                        </MenuItem.InputBindings>
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+
+        <!--Select the current Item-->
+        <StackPanel Margin="20">
+            <ComboBox x:Name="CurrentItemBox" Width="120" HorizontalAlignment="Left" Margin="-20,0,0,0"/>
+        </StackPanel>
+
+        <!--Add and remove button-->
+        <Canvas Grid.Column="0">
+            <Button x:Name="_addButton" Click="_addButton_Click" Canvas.Top="19" Canvas.Left="153" Width="71">Add</Button>
+            <Button x:Name="_deleteButton" Click="_deleteButton_Click" RenderTransformOrigin="0.732,1.246" Canvas.Left="279" Canvas.Top="19" Width="70" >Remove</Button>
+        </Canvas>
+
+
+        <Grid>
+            <!--Divide into 2 halfs-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <!--Right Half-->
+            <Grid Grid.Column="1" Margin="0,20,0,25">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" MaxHeight="30"/>
+                    <!--Dropdown for item slot-->
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <!--Input boxes-->
+                <ComboBox Grid.Row="0" x:Name="_itemslot" SelectionChanged="_itemslot_SelectionChanged"/>
+                <TextBox Grid.Row="1" x:Name="_textbox1" TextChanged="_textbox1_TextChanged">Item Name</TextBox>
+                <TextBox Grid.Row="2" x:Name="_textbox2" TextChanged="_textbox2_TextChanged">Attack value</TextBox>
+                <TextBox Grid.Row="3" x:Name="_textbox3" TextChanged="_textbox3_TextChanged">Defence value</TextBox>
+                <TextBox Grid.Row="4" x:Name="_textbox4" TextChanged="_textbox4_TextChanged">Item price</TextBox>
+            </Grid>
+            <!--Left Half-->
+            <Grid Grid.Column="0" Margin="0,45,0,25">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <!--Textblocks to bind-->
+                <WrapPanel Margin="0" Grid.Row="0">
+                    <TextBlock Text="Item Name: " FontWeight="Bold" />
+                    <TextBlock x:Name="_leftbox1"/>
+                </WrapPanel>
+                
+                <WrapPanel Grid.Row="1">
+                    <TextBlock Text="Attack Value: " FontWeight="Bold"/>
+                    <TextBlock x:Name="_leftbox2"/>
+                </WrapPanel>
+
+                <WrapPanel Grid.Row="2">
+                    <TextBlock Text="Defence Value: " FontWeight="Bold"/>
+                    <TextBlock x:Name="_leftbox3"/>
+                </WrapPanel>
+
+                <WrapPanel Grid.Row="3">
+                    <TextBlock Text="Price Value: " FontWeight="Bold"/>
+                    <TextBlock x:Name="_leftbox4"/>
+                </WrapPanel>
+
+            </Grid>
+
+        </Grid>
+
+
+        <!--Statusbar-->
+        <DockPanel LastChildFill="False">
+            <StatusBar DockPanel.Dock="Bottom">
+                <ProgressBar Width="100" Height="18" Value="33"/>
+            </StatusBar>
+        </DockPanel>
+    </Grid>
+
+</Window>

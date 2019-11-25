@@ -1,0 +1,10 @@
+Unity Version Used: 2018.2.11f1
+
+Folder marked "Playable" contains release build.
+Folder marked "Code" contains unity project and code.
+
+The game is supposed to be a multiplayer game, for testing purposes I changed the required player count to 1.
+We had issues with cordination between artists and programmers, that's why the game doesn't look that great.
+
+
+

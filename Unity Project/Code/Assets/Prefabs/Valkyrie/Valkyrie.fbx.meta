@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 74c0a1c6cd020a24687a363d8e0d9a13
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Valkyrie_Arms
+    100004: Valkyrie_Body
+    100006: Valkyrie_Boots
+    100008: Valkyrie_Hair
+    100010: Valkyrie_Korset
+    100012: Valkyrie_Shirt
+    100014: Valkyrie_Skirt
+    100016: Valkyrie_Waist
+    400000: //RootNode
+    400002: Valkyrie_Arms
+    400004: Valkyrie_Body
+    400006: Valkyrie_Boots
+    400008: Valkyrie_Hair
+    400010: Valkyrie_Korset
+    400012: Valkyrie_Shirt
+    400014: Valkyrie_Skirt
+    400016: Valkyrie_Waist
+    2100000: lambert1
+    2300000: Valkyrie_Arms
+    2300002: Valkyrie_Body
+    2300004: Valkyrie_Boots
+    2300006: Valkyrie_Hair
+    2300008: Valkyrie_Korset
+    2300010: Valkyrie_Shirt
+    2300012: Valkyrie_Skirt
+    2300014: Valkyrie_Waist
+    3300000: Valkyrie_Arms
+    3300002: Valkyrie_Body
+    3300004: Valkyrie_Boots
+    3300006: Valkyrie_Hair
+    3300008: Valkyrie_Korset
+    3300010: Valkyrie_Shirt
+    3300012: Valkyrie_Skirt
+    3300014: Valkyrie_Waist
+    4300000: Valkyrie_Boots
+    4300002: Valkyrie_Korset
+    4300004: Valkyrie_Body
+    4300006: Valkyrie_Waist
+    4300008: Valkyrie_Hair
+    4300010: Valkyrie_Skirt
+    4300012: Valkyrie_Shirt
+    4300014: Valkyrie_Arms
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

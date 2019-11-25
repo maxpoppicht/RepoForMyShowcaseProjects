@@ -1,0 +1,5 @@
+Dice Scene:
+20 Sided dice that rolls on mouseclick, checks for upward facing side and shows value in console.
+
+Walking Scene:
+Played around with 3rd person movement, buggy not finished.

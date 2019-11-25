@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: c4a4036a258d67b4a9353a5a76817090
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Character_universalRig:Character_universalRig_Ctrl_ChestEndEffector
+    100002: Character_universalRig:Character_universalRig_Ctrl_ChestOriginEffector
+    100004: Character_universalRig:Character_universalRig_Ctrl_Head
+    100006: Character_universalRig:Character_universalRig_Ctrl_HeadEffector
+    100008: Character_universalRig:Character_universalRig_Ctrl_Hips
+    100010: Character_universalRig:Character_universalRig_Ctrl_HipsEffector
+    100012: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffector
+    100014: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffectorPivot1
+    100016: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffectorPivot2
+    100018: Character_universalRig:Character_universalRig_Ctrl_LeftArm
+    100020: Character_universalRig:Character_universalRig_Ctrl_LeftElbowEffector
+    100022: Character_universalRig:Character_universalRig_Ctrl_LeftFoot
+    100024: Character_universalRig:Character_universalRig_Ctrl_LeftFootEffector
+    100026: Character_universalRig:Character_universalRig_Ctrl_LeftForeArm
+    100028: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+    100030: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex1
+    100032: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex2
+    100034: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex3
+    100036: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex4
+    100038: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndexEffector
+    100040: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle1
+    100042: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle2
+    100044: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle3
+    100046: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle4
+    100048: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddleEffector
+    100050: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky1
+    100052: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky2
+    100054: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky3
+    100056: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky4
+    100058: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinkyEffector
+    100060: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing1
+    100062: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing2
+    100064: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing3
+    100066: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing4
+    100068: Character_universalRig:Character_universalRig_Ctrl_LeftHandRingEffector
+    100070: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb1
+    100072: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb2
+    100074: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb3
+    100076: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb4
+    100078: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumbEffector
+    100080: Character_universalRig:Character_universalRig_Ctrl_LeftHipEffector
+    100082: Character_universalRig:Character_universalRig_Ctrl_LeftKneeEffector
+    100084: Character_universalRig:Character_universalRig_Ctrl_LeftLeg
+    100086: Character_universalRig:Character_universalRig_Ctrl_LeftShoulder
+    100088: Character_universalRig:Character_universalRig_Ctrl_LeftShoulderEffector
+    100090: Character_universalRig:Character_universalRig_Ctrl_LeftToeBase
+    100092: Character_universalRig:Character_universalRig_Ctrl_LeftUpLeg
+    100094: Character_universalRig:Character_universalRig_Ctrl_LeftWristEffector
+    100096: Character_universalRig:Character_universalRig_Ctrl_Neck
+    100098: Character_universalRig:Character_universalRig_Ctrl_Reference
+    100100: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffector
+    100102: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffectorPivot1
+    100104: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffectorPivot2
+    100106: Character_universalRig:Character_universalRig_Ctrl_RightArm
+    100108: Character_universalRig:Character_universalRig_Ctrl_RightElbowEffector
+    100110: Character_universalRig:Character_universalRig_Ctrl_RightFoot
+    100112: Character_universalRig:Character_universalRig_Ctrl_RightFootEffector
+    100114: Character_universalRig:Character_universalRig_Ctrl_RightForeArm
+    100116: Character_universalRig:Character_universalRig_Ctrl_RightHand
+    100118: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex1
+    100120: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex2
+    100122: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex3
+    100124: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex4
+    100126: Character_universalRig:Character_universalRig_Ctrl_RightHandIndexEffector
+    100128: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle1
+    100130: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle2
+    100132: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle3
+    100134: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle4
+    100136: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddleEffector
+    100138: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky1
+    100140: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky2
+    100142: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky3
+    100144: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky4
+    100146: Character_universalRig:Character_universalRig_Ctrl_RightHandPinkyEffector
+    100148: Character_universalRig:Character_universalRig_Ctrl_RightHandRing1
+    100150: Character_universalRig:Character_universalRig_Ctrl_RightHandRing2
+    100152: Character_universalRig:Character_universalRig_Ctrl_RightHandRing3
+    100154: Character_universalRig:Character_universalRig_Ctrl_RightHandRing4
+    100156: Character_universalRig:Character_universalRig_Ctrl_RightHandRingEffector
+    100158: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb1
+    100160: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb2
+    100162: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb3
+    100164: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb4
+    100166: Character_universalRig:Character_universalRig_Ctrl_RightHandThumbEffector
+    100168: Character_universalRig:Character_universalRig_Ctrl_RightHipEffector
+    100170: Character_universalRig:Character_universalRig_Ctrl_RightKneeEffector
+    100172: Character_universalRig:Character_universalRig_Ctrl_RightLeg
+    100174: Character_universalRig:Character_universalRig_Ctrl_RightShoulder
+    100176: Character_universalRig:Character_universalRig_Ctrl_RightShoulderEffector
+    100178: Character_universalRig:Character_universalRig_Ctrl_RightToeBase
+    100180: Character_universalRig:Character_universalRig_Ctrl_RightUpLeg
+    100182: Character_universalRig:Character_universalRig_Ctrl_RightWristEffector
+    100184: Character_universalRig:Character_universalRig_Ctrl_Spine
+    100186: Character_universalRig:Character_universalRig_Ctrl_Spine1
+    100188: Character_universalRig:Character_universalRig_Ctrl_Spine2
+    100190: //RootNode
+    400000: Character_universalRig:Character_universalRig_Ctrl_ChestEndEffector
+    400002: Character_universalRig:Character_universalRig_Ctrl_ChestOriginEffector
+    400004: Character_universalRig:Character_universalRig_Ctrl_Head
+    400006: Character_universalRig:Character_universalRig_Ctrl_HeadEffector
+    400008: Character_universalRig:Character_universalRig_Ctrl_Hips
+    400010: Character_universalRig:Character_universalRig_Ctrl_HipsEffector
+    400012: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffector
+    400014: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffectorPivot1
+    400016: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffectorPivot2
+    400018: Character_universalRig:Character_universalRig_Ctrl_LeftArm
+    400020: Character_universalRig:Character_universalRig_Ctrl_LeftElbowEffector
+    400022: Character_universalRig:Character_universalRig_Ctrl_LeftFoot
+    400024: Character_universalRig:Character_universalRig_Ctrl_LeftFootEffector
+    400026: Character_universalRig:Character_universalRig_Ctrl_LeftForeArm
+    400028: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+    400030: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex1
+    400032: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex2
+    400034: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex3
+    400036: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex4
+    400038: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndexEffector
+    400040: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle1
+    400042: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle2
+    400044: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle3
+    400046: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle4
+    400048: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddleEffector
+    400050: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky1
+    400052: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky2
+    400054: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky3
+    400056: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky4
+    400058: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinkyEffector
+    400060: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing1
+    400062: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing2
+    400064: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing3
+    400066: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing4
+    400068: Character_universalRig:Character_universalRig_Ctrl_LeftHandRingEffector
+    400070: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb1
+    400072: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb2
+    400074: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb3
+    400076: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb4
+    400078: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumbEffector
+    400080: Character_universalRig:Character_universalRig_Ctrl_LeftHipEffector
+    400082: Character_universalRig:Character_universalRig_Ctrl_LeftKneeEffector
+    400084: Character_universalRig:Character_universalRig_Ctrl_LeftLeg
+    400086: Character_universalRig:Character_universalRig_Ctrl_LeftShoulder
+    400088: Character_universalRig:Character_universalRig_Ctrl_LeftShoulderEffector
+    400090: Character_universalRig:Character_universalRig_Ctrl_LeftToeBase
+    400092: Character_universalRig:Character_universalRig_Ctrl_LeftUpLeg
+    400094: Character_universalRig:Character_universalRig_Ctrl_LeftWristEffector
+    400096: Character_universalRig:Character_universalRig_Ctrl_Neck
+    400098: Character_universalRig:Character_universalRig_Ctrl_Reference
+    400100: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffector
+    400102: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffectorPivot1
+    400104: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffectorPivot2
+    400106: Character_universalRig:Character_universalRig_Ctrl_RightArm
+    400108: Character_universalRig:Character_universalRig_Ctrl_RightElbowEffector
+    400110: Character_universalRig:Character_universalRig_Ctrl_RightFoot
+    400112: Character_universalRig:Character_universalRig_Ctrl_RightFootEffector
+    400114: Character_universalRig:Character_universalRig_Ctrl_RightForeArm
+    400116: Character_universalRig:Character_universalRig_Ctrl_RightHand
+    400118: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex1
+    400120: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex2
+    400122: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex3
+    400124: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex4
+    400126: Character_universalRig:Character_universalRig_Ctrl_RightHandIndexEffector
+    400128: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle1
+    400130: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle2
+    400132: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle3
+    400134: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle4
+    400136: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddleEffector
+    400138: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky1
+    400140: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky2
+    400142: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky3
+    400144: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky4
+    400146: Character_universalRig:Character_universalRig_Ctrl_RightHandPinkyEffector
+    400148: Character_universalRig:Character_universalRig_Ctrl_RightHandRing1
+    400150: Character_universalRig:Character_universalRig_Ctrl_RightHandRing2
+    400152: Character_universalRig:Character_universalRig_Ctrl_RightHandRing3
+    400154: Character_universalRig:Character_universalRig_Ctrl_RightHandRing4
+    400156: Character_universalRig:Character_universalRig_Ctrl_RightHandRingEffector
+    400158: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb1
+    400160: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb2
+    400162: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb3
+    400164: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb4
+    400166: Character_universalRig:Character_universalRig_Ctrl_RightHandThumbEffector
+    400168: Character_universalRig:Character_universalRig_Ctrl_RightHipEffector
+    400170: Character_universalRig:Character_universalRig_Ctrl_RightKneeEffector
+    400172: Character_universalRig:Character_universalRig_Ctrl_RightLeg
+    400174: Character_universalRig:Character_universalRig_Ctrl_RightShoulder
+    400176: Character_universalRig:Character_universalRig_Ctrl_RightShoulderEffector
+    400178: Character_universalRig:Character_universalRig_Ctrl_RightToeBase
+    400180: Character_universalRig:Character_universalRig_Ctrl_RightUpLeg
+    400182: Character_universalRig:Character_universalRig_Ctrl_RightWristEffector
+    400184: Character_universalRig:Character_universalRig_Ctrl_Spine
+    400186: Character_universalRig:Character_universalRig_Ctrl_Spine1
+    400188: Character_universalRig:Character_universalRig_Ctrl_Spine2
+    400190: //RootNode
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Character_universalRig:Character_universalRig_Ctrl_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Idle02(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_Reference
+      parentName: Idle02(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_ChestEndEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0, y: 1.4500248, z: -0.032672066}
+      rotation: {x: -1.3877788e-17, y: -3.081488e-33, z: -2.220446e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_ChestOriginEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 2.9465328e-17, y: 1.0699999, z: 5.8930656e-17}
+      rotation: {x: 1.4163847e-16, y: 2.7415802e-32, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_HeadEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 8.5304307e-16, y: 1.6190476, z: -0.037480336}
+      rotation: {x: 1.4163847e-16, y: 2.7415802e-32, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_Hips
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 1.9721522e-33, y: 1, z: 1.3922206e-17}
+      rotation: {x: 1.4163847e-16, y: 1.110223e-16, z: -1.5725029e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftUpLeg
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Hips
+      position: {x: -0.117128186, y: -0.06270004, z: 0}
+      rotation: {x: -3.4694473e-17, y: 2.3111157e-33, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftLeg
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftUpLeg
+      position: {x: 1.7763568e-17, y: -0.3557512, z: 0.02829654}
+      rotation: {x: -0.000000040598138, y: 0.000000013075118, z: 0.000000013105922,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftFoot
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftLeg
+      position: {x: -0, y: -0.5001848, z: -0.0076743006}
+      rotation: {x: 0.00000004432342, y: -0.000000021557096, z: -0.000000011442689,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftToeBase
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftFoot
+      position: {x: -0.000000085830685, y: -0.075206116, z: 0.14168188}
+      rotation: {x: 3.469142e-32, y: -0, z: -1.2246467e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightUpLeg
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Hips
+      position: {x: 0.117128186, y: -0.06270004, z: 0}
+      rotation: {x: -3.5914197e-15, y: -0.00000004284084, z: -0.00000009889481, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightLeg
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightUpLeg
+      position: {x: -1.7763568e-17, y: -0.3557512, z: 0.02829654}
+      rotation: {x: 3.638554e-13, y: -0.00000331309, z: 0.000000059041753, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightFoot
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightLeg
+      position: {x: -0, y: -0.5001848, z: -0.0076743006}
+      rotation: {x: 8.580914e-12, y: -0.0000037335292, z: -0.000003723302, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightToeBase
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightFoot
+      position: {x: 0.000000085830685, y: -0.075206116, z: 0.14168188}
+      rotation: {x: 3.469142e-32, y: -0, z: -1.2246467e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_Spine
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Hips
+      position: {x: -0, y: 0.07, z: 0}
+      rotation: {x: 1.4163847e-16, y: 1.110223e-16, z: -1.5725029e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_Spine1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Spine
+      position: {x: -0, y: 0.14486313, z: 0}
+      rotation: {x: -3.2612801e-16, y: -1.1093458e-16, z: -1.0660971e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_Spine2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Spine1
+      position: {x: -0, y: 0.14486313, z: -0.005762147}
+      rotation: {x: 6.9388946e-17, y: 1.0944793e-16, z: -2.4067528e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftShoulder
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Spine2
+      position: {x: -0.04534946, y: 0.090298615, z: -0.026909918}
+      rotation: {x: -4.065758e-20, y: 1.0408341e-17, z: -3.8455296e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftArm
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftShoulder
+      position: {x: -0.0757316, y: -0.0004408264, z: -0.0029361772}
+      rotation: {x: 0.06257557, y: -0.013058142, z: -0.13659626, w: 0.98856217}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftForeArm
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftArm
+      position: {x: -0.294028, y: -0.08860809, z: 0.013405559}
+      rotation: {x: 0.035685055, y: 0.047822677, z: -0.028519262, w: 0.9978108}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftForeArm
+      position: {x: -0.25218365, y: -0.08688758, z: 0.011429111}
+      rotation: {x: -0.049542572, y: -0.017070008, z: 0.0022452308, w: 0.9986236}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+      position: {x: -0.083894044, y: -0.024880752, z: 0.026802959}
+      rotation: {x: -3.469447e-16, y: -5.551115e-17, z: 2.2551405e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex1
+      position: {x: -0.044410247, y: -0.01671608, z: 0.0045099924}
+      rotation: {x: 0.010801096, y: -0.01807923, z: 0.018698985, w: 0.99960333}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex2
+      position: {x: -0.026268462, y: -0.00875267, z: 0.0061107897}
+      rotation: {x: -2.7755576e-17, y: 5.551115e-17, z: -6.071532e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndex3
+      position: {x: -0.022844924, y: -0.0086344145, z: 0.0042215013}
+      rotation: {x: -3.122502e-17, y: 6.9388946e-17, z: 1.7347236e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+      position: {x: -0.08592728, y: -0.020051422, z: 0.00864029}
+      rotation: {x: -3.5681093e-16, y: -2.3418767e-17, z: -2.97046e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle1
+      position: {x: -0.045938034, y: -0.01610649, z: 0.00023791328}
+      rotation: {x: 0.00014816398, y: 0.000050915398, z: 0.003174387, w: 0.999995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle2
+      position: {x: -0.035322417, y: -0.012133178, z: 0.0018435031}
+      rotation: {x: -0.0000000010005171, y: -3.437359e-10, z: -0.000000021593078,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddle3
+      position: {x: -0.02815979, y: -0.00967453, z: 0.001458793}
+      rotation: {x: 0.0000000029758787, y: 0.0000000010223878, z: 0.000000064225176,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+      position: {x: -0.08430733, y: -0.03310127, z: -0.03171681}
+      rotation: {x: -0.0026140397, y: 0.008272246, z: -0.0067992248, w: 0.9999393}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky1
+      position: {x: -0.03592888, y: -0.012913055, z: -0.0018971442}
+      rotation: {x: -0.01627283, y: 0.046304155, z: -0.0069891666, w: 0.99877036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky2
+      position: {x: -0.022365035, y: -0.008690261, z: -0.0055020237}
+      rotation: {x: 3.4694473e-17, y: -8.326673e-17, z: 6.071532e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinky3
+      position: {x: -0.018503647, y: -0.0071910094, z: -0.0045520067}
+      rotation: {x: 1.3877788e-17, y: -4.1633363e-17, z: 3.8163916e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+      position: {x: -0.086815566, y: -0.023016967, z: -0.010974408}
+      rotation: {x: -0.0031158105, y: 0.009925019, z: -0.007953831, w: 0.9999142}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing1
+      position: {x: -0.042862624, y: -0.015435562, z: -0.0024699068}
+      rotation: {x: 1.2316537e-16, y: 1.3877788e-17, z: 1.2793586e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing2
+      position: {x: -0.027848205, y: -0.011564102, z: -0.0024334812}
+      rotation: {x: -1.9081958e-17, y: 4.8572257e-17, z: 6.938894e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandRing3
+      position: {x: -0.02632965, y: -0.010935287, z: -0.002310822}
+      rotation: {x: -2.2551405e-17, y: 5.551115e-17, z: -2.439455e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHand
+      position: {x: -0.036945876, y: -0.019687423, z: 0.02637523}
+      rotation: {x: -0.20578013, y: 0.1496535, z: -0.15805641, w: 0.95408416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb1
+      position: {x: -0.018789824, y: -0.01689064, z: 0.0084706}
+      rotation: {x: 0.022216769, y: 0.005620629, z: 0.0604899, w: 0.99790573}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb2
+      position: {x: -0.027288817, y: -0.015456161, z: 0.011458883}
+      rotation: {x: -0.064237826, y: -0.009174607, z: -0.16535449, w: 0.98409724}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumb3
+      position: {x: -0.018963851, y: -0.026543196, z: 0.008839922}
+      rotation: {x: -3.7470027e-16, y: 1.2490008e-16, z: 2.7755578e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_Neck
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Spine2
+      position: {x: -0, y: 0.14486328, z: -0.024659218}
+      rotation: {x: -1.4224733e-16, y: -2.7348205e-32, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_Head
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Neck
+      position: {x: -0, y: 0.11445816, z: -0.0070589683}
+      rotation: {x: 1.4163847e-16, y: 1.110223e-16, z: -1.5725029e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightShoulder
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Spine2
+      position: {x: 0.04534946, y: 0.090298615, z: -0.026909918}
+      rotation: {x: -4.065758e-20, y: -1.0408341e-17, z: 3.8455296e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightArm
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightShoulder
+      position: {x: 0.0757316, y: -0.0004408264, z: -0.0029361772}
+      rotation: {x: 0.05285648, y: 0.014341226, z: 0.13669325, w: 0.9890983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightForeArm
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightArm
+      position: {x: 0.294028, y: -0.08860809, z: 0.013405559}
+      rotation: {x: 0.027753953, y: -0.046603706, z: 0.025989907, w: 0.99818957}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHand
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightForeArm
+      position: {x: 0.25218365, y: -0.08688758, z: 0.011429111}
+      rotation: {x: -0.04200763, y: 0.014473869, z: -0.0019040036, w: 0.9990107}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHand
+      position: {x: 0.083894044, y: -0.024880752, z: 0.026802959}
+      rotation: {x: 1.0408341e-17, y: -2.7755576e-17, z: -1.8257965e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex1
+      position: {x: 0.044410247, y: -0.01671608, z: 0.0045099924}
+      rotation: {x: 0.010800951, y: 0.01807868, z: -0.018699467, w: 0.99960333}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex2
+      position: {x: 0.026268462, y: -0.00875267, z: 0.0061107897}
+      rotation: {x: -0.000000022321794, y: -0.000000017535925, z: -0.00000015550293,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandIndex3
+      position: {x: 0.022844924, y: -0.0086344145, z: 0.0042215013}
+      rotation: {x: 0.000000022321796, y: 0.000000017535928, z: 0.00000015550293,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHand
+      position: {x: 0.08592728, y: -0.020051422, z: 0.00864029}
+      rotation: {x: 8.6736174e-19, y: -8.6736174e-19, z: -2.475708e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle1
+      position: {x: 0.045938034, y: -0.01610649, z: 0.00023791328}
+      rotation: {x: 0.00014820613, y: -0.000050908504, z: -0.0031747604, w: 0.999995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle2
+      position: {x: 0.035322417, y: -0.012133178, z: 0.0018435031}
+      rotation: {x: 6.938894e-18, y: -1.0408341e-17, z: -1.9710795e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddle3
+      position: {x: 0.02815979, y: -0.00967453, z: 0.001458793}
+      rotation: {x: -1.7347235e-18, y: -1.3877788e-17, z: -5.854692e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHand
+      position: {x: 0.08430733, y: -0.03310127, z: -0.03171681}
+      rotation: {x: -0.0026143303, y: -0.0082731005, z: 0.006800208, w: 0.9999392}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky1
+      position: {x: 0.03592888, y: -0.012913055, z: -0.0018971442}
+      rotation: {x: -0.016272914, y: -0.046304427, z: 0.0069890376, w: 0.9987704}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky2
+      position: {x: 0.022365035, y: -0.008690261, z: -0.0055020237}
+      rotation: {x: -2.0816682e-17, y: 1.3877788e-17, z: -1.561251e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandPinky3
+      position: {x: 0.018503647, y: -0.0071910094, z: -0.0045520067}
+      rotation: {x: -2.0816682e-17, y: 4.1633363e-17, z: 9.7144515e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandRing1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHand
+      position: {x: 0.086815566, y: -0.023016967, z: -0.010974408}
+      rotation: {x: -0.003115851, y: -0.0099251205, z: 0.00795389, w: 0.9999143}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandRing2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandRing1
+      position: {x: 0.042862624, y: -0.015435562, z: -0.0024699068}
+      rotation: {x: -3.2959743e-17, y: 4.1633363e-17, z: -4.241399e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandRing3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandRing2
+      position: {x: 0.027848205, y: -0.011564102, z: -0.0024334812}
+      rotation: {x: -2.94903e-17, y: 1.3877788e-17, z: 2.7105054e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandRing4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandRing3
+      position: {x: 0.02632965, y: -0.010935287, z: -0.002310822}
+      rotation: {x: -1.2143064e-17, y: -1.3877788e-17, z: 2.5587171e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHand
+      position: {x: 0.036945876, y: -0.019687423, z: 0.02637523}
+      rotation: {x: -0.2030697, y: -0.14968628, z: 0.15197551, w: 0.95564646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb1
+      position: {x: 0.018789824, y: -0.01689064, z: 0.0084706}
+      rotation: {x: 0.022216765, y: -0.0056196, z: -0.060487784, w: 0.99790585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb3
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb2
+      position: {x: 0.027288817, y: -0.015456161, z: 0.011458883}
+      rotation: {x: -0.064238355, y: 0.0091736885, z: 0.1653535, w: 0.98409736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb4
+      parentName: Character_universalRig:Character_universalRig_Ctrl_RightHandThumb3
+      position: {x: 0.018963851, y: -0.026543196, z: 0.008839922}
+      rotation: {x: -1.110223e-16, y: -1.3877789e-16, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_HipsEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0, y: 0.9372999, z: 3.1763735e-24}
+      rotation: {x: 1.4163847e-16, y: 2.7415802e-32, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.117128186, y: 0.08136398, z: 0.02062222}
+      rotation: {x: 1.10850964e-16, y: -5.205314e-17, z: 2.0908572e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffectorPivot1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.117128186, y: 0.003993039, z: -0.10877744}
+      rotation: {x: 1.10850964e-16, y: -5.205314e-17, z: 2.0908572e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftAnkleEffectorPivot2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.117128186, y: 0.0015677357, z: 0.3101683}
+      rotation: {x: 1.10850964e-16, y: -5.205314e-17, z: 2.0908572e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftElbowEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.02746399, y: 0.94311035, z: -0.10046275}
+      rotation: {x: -0.042618003, y: 0.21616566, z: 0.84002906, w: 0.49578956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftFootEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.11712828, y: 0.0061578653, z: 0.16230409}
+      rotation: {x: 3.469142e-32, y: -0, z: -1.2246467e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandIndexEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.29382834, y: 0.23886512, z: 0.13277481}
+      rotation: {x: -0.112512045, y: 0.15548344, z: 0.83096164, w: 0.52217686}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandMiddleEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.28419277, y: 0.19672057, z: 0.112196036}
+      rotation: {x: -0.10199873, y: 0.1497574, z: 0.8489487, w: 0.49644244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandPinkyEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.27998134, y: 0.23324287, z: 0.044777334}
+      rotation: {x: -0.10150756, y: 0.14863344, z: 0.85233027, w: 0.49105757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandRingEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.28308037, y: 0.20445853, z: 0.07853654}
+      rotation: {x: -0.10150756, y: 0.14863344, z: 0.85233027, w: 0.49105757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHandThumbEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.326466, y: 0.36954224, z: 0.115331955}
+      rotation: {x: -0.1015076, y: 0.14863342, z: 0.8523302, w: 0.4910577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftHipEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.117128186, y: 0.9372999, z: 2.6007685e-17}
+      rotation: {x: -4.8572257e-17, y: 6.162976e-33, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftKneeEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.1171282, y: 0.58154875, z: 0.028296515}
+      rotation: {x: 0.0000000907284, y: -0.000000029802305, z: -0.00000005960466,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftShoulderEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.121081054, y: 1.449584, z: -0.035608243}
+      rotation: {x: 0.11205775, y: -0.042005233, z: 0.85798585, w: 0.4995388}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_LeftWristEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.18047579, y: 0.5216271, z: 0.01777542}
+      rotation: {x: -0.101507485, y: 0.14863347, z: 0.85233027, w: 0.49105757}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.117128186, y: 0.08136398, z: 0.020622244}
+      rotation: {x: -1.1660387e-16, y: -0.0000070894616, z: -0.000003763155, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffectorPivot1
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.11713028, y: 0.003993039, z: -0.10877742}
+      rotation: {x: -1.1660387e-16, y: -0.0000070894616, z: -0.000003763155, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightAnkleEffectorPivot2
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.11712065, y: 0.0015677357, z: 0.3101683}
+      rotation: {x: -1.1660387e-16, y: -0.0000070894616, z: -0.000003763155, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightElbowEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.03307476, y: 0.9406732, z: -0.08563884}
+      rotation: {x: 0.031266022, y: 0.18489239, z: 0.8513373, w: -0.48996127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightFootEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.11712364, y: 0.0061578653, z: 0.16230412}
+      rotation: {x: 2.7745894e-11, y: -0.000008507352, z: -0.0000045157863, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandIndexEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.30591518, y: 0.22574295, z: 0.11764837}
+      rotation: {x: -0.0917551, y: -0.13326223, z: -0.83992237, w: 0.51802766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandMiddleEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.29710966, y: 0.18500824, z: 0.095536076}
+      rotation: {x: 0.08134073, y: 0.12830314, z: 0.8572754, w: -0.49193582}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandPinkyEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.29357854, y: 0.22592811, z: 0.02954779}
+      rotation: {x: 0.08088559, y: 0.12734899, z: 0.86055905, w: -0.4864956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandRingEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.29647544, y: 0.19498427, z: 0.06217471}
+      rotation: {x: 0.080885604, y: 0.12734899, z: 0.8605591, w: -0.48649555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHandThumbEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.33740315, y: 0.3575669, z: 0.1049006}
+      rotation: {x: 0.0808856, y: 0.12734899, z: 0.86055905, w: -0.4864956}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightHipEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.117128186, y: 0.9372999, z: -2.6007678e-17}
+      rotation: {x: -8.3889135e-15, y: -0.000000080452615, z: -0.00000003837785, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightKneeEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.11712812, y: 0.58154875, z: 0.028296534}
+      rotation: {x: 0.0000001430476, y: -0.00000692686, z: -0.00000016691736, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightShoulderEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: 0.121081054, y: 1.449584, z: -0.035608243}
+      rotation: {x: -0.09619289, y: -0.027799645, z: 0.8638006, w: -0.493784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character_universalRig:Character_universalRig_Ctrl_RightWristEffector
+      parentName: Character_universalRig:Character_universalRig_Ctrl_Reference
+      position: {x: -0.19029303, y: 0.5141664, z: 0.014734407}
+      rotation: {x: 0.0808856, y: 0.12734894, z: 0.86055917, w: -0.48649544}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

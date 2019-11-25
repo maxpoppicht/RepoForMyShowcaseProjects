@@ -1,0 +1,15 @@
+C:\Users\poppi\source\repos\Trainingyaes\bin\Debug\Trainingyaes.exe.config
+C:\Users\poppi\source\repos\Trainingyaes\bin\Debug\Trainingyaes.exe
+C:\Users\poppi\source\repos\Trainingyaes\bin\Debug\Trainingyaes.pdb
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes.csprojAssemblyReference.cache
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\MainWindow.g.cs
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\App.g.cs
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes_MarkupCompile.cache
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes_MarkupCompile.lref
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\MainWindow.baml
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes.g.resources
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes.Properties.Resources.resources
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes.csproj.GenerateResource.cache
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes.csproj.CoreCompileInputs.cache
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes.exe
+C:\Users\poppi\source\repos\Trainingyaes\obj\Debug\Trainingyaes.pdb
